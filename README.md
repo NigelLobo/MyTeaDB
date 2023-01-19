@@ -8,3 +8,6 @@ This web application allows users to interact with a persistent database storing
 The backend was built with Node.js, Express.js and PostgreSQL. The project is hosted on an AWS EC2 (Ubuntu Linux). 
 
 The frontend was built with Vue.js and Bootstrap. 
+
+
+<sub>Completed Nov. 2022</sub>
