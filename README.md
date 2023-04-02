@@ -1,5 +1,5 @@
 # MyTeaDB
-<b> Try it:</b> https://www.myteadb.ca/
+<b> Try it:</b> https://www.myteadb.ca/ (site is down temporarily)
 
 # About the Project
 This web application allows users to interact with a persistent database storing information about types of Teas.   
